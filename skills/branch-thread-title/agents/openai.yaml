@@ -1,0 +1,4 @@
+interface:
+  display_name: "分支会话标题"
+  short_description: "管理会话标题和钩子"
+  default_prompt: "使用 $branch-thread-title 按当前工具检查会话标题能力；若支持自动安装，帮我安装并保留已有配置。"
