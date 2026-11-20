@@ -23,6 +23,13 @@
 - [微信开发者工具准备与上传](skills/wechat-miniprogram-release/references/devtools.md)
 - [密钥上传准备与操作](skills/wechat-miniprogram-release/references/miniprogram-ci.md)
 
+### uni-h5-build
+
+构建 uni-app H5 静态产物，通用构建流程与可替换的项目规则分开维护；当前附带 marketingV2 uni-h5 项目的环境切换规则。
+
+- [技能说明](skills/uni-h5-build/SKILL.md)
+- [marketingV2 uni-h5 项目规则](skills/uni-h5-build/profiles/default/SKILL.md)
+
 ## 目录结构
 
 ```text
