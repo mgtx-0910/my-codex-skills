@@ -1,0 +1,4 @@
+interface:
+  display_name: "MarketingV2 Web 发布"
+  short_description: "合并、构建并发布 Web 开发环境"
+  default_prompt: "使用 $marketingv2-web-release 按指定环境合并、打包并发布 Web。"
