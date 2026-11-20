@@ -14,6 +14,15 @@
 
 当前包含 Codex 专用的自动标题钩子和安装脚本，实际生效依赖宿主支持、信任和模型判断。其他工具目前可复用命名规则，尚未提供自动安装和自动更新适配；请以支持情况说明为准。仅加载技能不会自动安装钩子。
 
+### wechat-miniprogram-release
+
+构建和上传微信小程序，默认连接微信开发者工具，也支持按用户要求使用密钥和 IP 白名单。通用流程与可替换的项目规则分开维护；当前附带 marketingV2 项目规则。
+
+- [技能说明](skills/wechat-miniprogram-release/SKILL.md)
+- [marketingV2 项目规则](skills/wechat-miniprogram-release/profiles/default/SKILL.md)
+- [微信开发者工具准备与上传](skills/wechat-miniprogram-release/references/devtools.md)
+- [密钥上传准备与操作](skills/wechat-miniprogram-release/references/miniprogram-ci.md)
+
 ## 目录结构
 
 ```text

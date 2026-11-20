@@ -1,0 +1,4 @@
+interface:
+  display_name: "微信小程序发布"
+  short_description: "构建并上传微信小程序"
+  default_prompt: "使用 $wechat-miniprogram-release 按指定环境构建或上传微信小程序。"
