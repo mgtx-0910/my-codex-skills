@@ -30,6 +30,15 @@
 - [技能说明](skills/uni-h5-build/SKILL.md)
 - [marketingV2 uni-h5 项目规则](skills/uni-h5-build/profiles/default/SKILL.md)
 
+### marketingv2-development-conventions
+
+用于 marketingV2 前端开发和代码审查，覆盖现有能力复用、历史模块兼容、页面架构、共享业务枚举、字段契约、API 归属，以及 ESLint、安全审计和单元测试的验证顺序。
+
+- [技能说明](skills/marketingv2-development-conventions/SKILL.md)
+- [Codex 技能元数据](skills/marketingv2-development-conventions/agents/openai.yaml)
+
+该目录是本技能的维护源；修改后，如需更新已安装的副本，按目标工具的技能安装方式同步整个技能目录。
+
 ## 目录结构
 
 ```text

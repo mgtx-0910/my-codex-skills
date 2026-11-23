@@ -1,0 +1,4 @@
+interface:
+  display_name: "MarketingV2 前端开发规约"
+  short_description: "在 MarketingV2 前端开发和审查中统一组件复用、业务枚举、接口归属与验证流程"
+  default_prompt: "使用 $marketingv2-development-conventions，按项目规约开发或审查 MarketingV2 前端改动。"
